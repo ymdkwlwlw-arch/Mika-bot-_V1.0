@@ -24,15 +24,15 @@
   "eventsOff": true,
   "reactOff": false,
   "adminBot": [
-    "100094924471568",
-    "61557830994397",
-    "61557169379945"
+    "61593519041412",
+    "61593519041412",
+    "61593519041412"
   ],
   "premiumUsers": [
     "100094924471568"
   ],
   "devUsers": [
-    "100094924471568"
+    "61593519041412"
   ],
   "notes_premiumUsers": "List of user IDs with premium access (role 3)",
   "notes_devUsers": "List of developer IDs with full access (role 4)",
